@@ -58,13 +58,13 @@
     <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
-    <dct:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.nt"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
-    <dct:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.rdf"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.rdf"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
-    <dct:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <void:feature rdf:resource="http://www.w3.org/ns/formats/RDFa"/>

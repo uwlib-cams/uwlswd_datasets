@@ -58,13 +58,13 @@
     ],
     "http://purl.org/dc/terms/hasFormat": [
       {
-        "@id": "https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.nt"
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.nt"
       },
       {
-        "@id": "https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.rdf"
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.rdf"
       },
       {
-        "@id": "https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.ttl"
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl"
       }
     ],
     "http://purl.org/dc/terms/issued": [

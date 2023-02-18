@@ -25,9 +25,9 @@
 <https://doi.org/10.6069/uwlib.55.a#uwSemWeb> a void:Dataset ;
     dct:creator <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> ;
     dct:description "Linked data describing resources associated with digital collections hosted at the University of Washington"@en ;
-    dct:hasFormat <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.nt>,
-        <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.rdf>,
-        <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.ttl> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl> ;
     dct:issued "2018" ;
     dct:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     dct:publisher <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> ;
