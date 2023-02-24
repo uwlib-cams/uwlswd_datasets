@@ -55,7 +55,6 @@
 <https://doi.org/10.6069/uwlib.55.a.3.4> <https://doi.org/10.6069/uwlib.55.b.2#platform> <https://doi.org/10.6069/uwlib.55.d.2#platform001> .
 <https://doi.org/10.6069/uwlib.55.a.3.1> <http://purl.org/dc/terms/hasFormat> <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/sourceResource-1-0-0.ttl> .
 <https://doi.org/10.6069/uwlib.55.a.3.6> <http://purl.org/dc/terms/hasFormat> <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/agent-1-0-2.ttl> .
-<https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/hasFormat> <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWeb.nt> .
 <https://doi.org/10.6069/uwlib.55.a.3.4> <https://doi.org/10.6069/uwlib.55.b.2#deduped> "1-0-0" .
 <https://doi.org/10.6069/uwlib.55.a.3.1> <http://rdfs.org/ns/void#Class> <http://dp.la/about/map/SourceResource> .
 <https://doi.org/10.6069/uwlib.55.a.3.2> <http://purl.org/dc/terms/title> "Instances of the Aggregation Class"@en .
@@ -84,7 +83,6 @@
 <https://doi.org/10.6069/uwlib.55.a.3.2> <http://purl.org/dc/terms/hasFormat> <https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/aggregation-1-0-0.ttl> .
 <https://doi.org/10.6069/uwlib.55.a.3.6> <https://doi.org/10.6069/uwlib.55.b.2#targetVocabSecondary> <http://dbpedia.org/resource/> .
 <https://doi.org/10.6069/uwlib.55.a> <http://purl.org/dc/terms/publisher> <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> .
-<https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl> .
 <https://doi.org/10.6069/uwlib.55.a.3.6> <https://doi.org/10.6069/uwlib.55.b.2#containsEntity> <http://purl.org/vra/Agent> .
 <https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://rdfs.org/ns/void#classPartition> <https://doi.org/10.6069/uwlib.55.a.3.3> .
 <https://doi.org/10.6069/uwlib.55.a.3.6> <https://doi.org/10.6069/uwlib.55.b.2#linkPredicate> <http://www.w3.org/2002/07/owl#sameAs> .
@@ -95,6 +93,9 @@
 <https://doi.org/10.6069/uwlib.55.a.3.6> <https://doi.org/10.6069/uwlib.55.b.2#targetVocabSecondary> <https://ru.wikipedia.org/wiki/> .
 <https://doi.org/10.6069/uwlib.55.a.3.6> <http://purl.org/dc/terms/title> "Instances of the Agent Class"@en .
 <https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.rdf> .
+<https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl> .
+<https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.jsonld> .
+<https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.html> .
 <https://doi.org/10.6069/uwlib.55.a#uwSemWeb> <http://purl.org/dc/terms/creator> <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> .
 <https://doi.org/10.6069/uwlib.55.a.3.2> <http://purl.org/dc/terms/issued> "2018" .
 <https://doi.org/10.6069/uwlib.55.a> <http://rdfs.org/ns/void#feature> <http://www.w3.org/ns/formats/Turtle> .

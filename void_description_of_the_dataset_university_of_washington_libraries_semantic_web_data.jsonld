@@ -16,6 +16,9 @@
       },
       {
         "@id": "https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/aggregation-1-0-0.ttl"
+      },
+      {
+        "@id": "https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/aggregation-1-0-0.html"
       }
     ],
     "http://purl.org/dc/terms/issued": [
