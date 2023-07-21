@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:void="http://rdfs.org/ns/void#">
+    
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+        <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+        <void:inDataset rdf:resource="http://doi.org/10.6069/uwlib.55.a#uwSemWeb"/>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues">
+        <rdf:type rdf:resource="http://purl.org/dc/terms/ProvenanceStatement"/>
+        <rdf:value>
+            Original list of values appeared in the MARC 21 standard, section "00X - Control Fields-General Information" maintained by the Library of Congress Network Development and MARC Standards Office. The original lists were re-formatted in 2011 as RDF in the Open Metadata Registry by Metadata Management Associates (see http://marc21rdf.info/). The current concept scheme was published at the University of Washington Libraries Cataloging and Metadata Services in 2023 and originally derived from the OMR versions, with revisions to better agree with the MARC standard as it exists in 2023.
+        </rdf:value>
+    </rdf:Description>
+</rdf:RDF>
