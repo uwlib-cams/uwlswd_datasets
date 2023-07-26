@@ -34,6 +34,9 @@
     <void:feature rdf:resource="http://www.w3.org/ns/formats/Turtle"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a">
+    <void:feature rdf:resource="http://www.w3.org/ns/formats/JSON-LD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a">
     <foaf:primaryTopic rdf:resource="https://doi.org/10.6069/uwlib.55.a#uwSemWeb"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
@@ -43,7 +46,7 @@
     <dct:title xml:lang="en">University of Washington Libraries' Semantic Web Data</dct:title>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
-    <dct:description xml:lang="en">Linked data describing resources associated with digital collections hosted at the University of Washington</dct:description>
+    <dct:description xml:lang="en">Linked data describing resources associated with digital collections and RDF vocabularies hosted at the University of Washington</dct:description>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <dct:creator rdf:resource="https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"/>
@@ -61,7 +64,7 @@
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.nt"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
-    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.rdf"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.html"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl"/>
@@ -82,6 +85,9 @@
     <void:feature rdf:resource="http://www.w3.org/ns/formats/Turtle"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
+    <void:feature rdf:resource="http://www.w3.org/ns/formats/JSON-LD"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <void:classPartition rdf:resource="https://doi.org/10.6069/uwlib.55.a.3.1"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
@@ -98,6 +104,9 @@
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <void:classPartition rdf:resource="https://doi.org/10.6069/uwlib.55.a.3.6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
+    <void:classPartition rdf:resource="https://doi.org/10.6069/uwlswd.2e2b-y833"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <ldproc:dataHarvestSource rdf:resource="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection"/>
@@ -311,5 +320,32 @@
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a.3.6">
     <ldproc:processingNote>All entities derived from the collection https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection were searched manually in Wikidata; when appropriate, new Wikidata items were created; when Wikidata entities matching local entities existed, the Wikidata entity data was edited.</ldproc:processingNote>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <void:Class rdf:resource="http://purl.org/dc/terms/ProvenanceStatement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:title xml:lang="en">Instances of the ProvenanceStatement Class</dct:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:description xml:lang="en">Instances of the class http://purl.org/dc/terms/ProvenanceStatement referenced in UW Libraries semantic web data.</dct:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <owl:version>1-0-0</owl:version>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:issued>2023</dct:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.jsonld"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
+    <dct:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.html"/>
   </rdf:Description>
 </rdf:RDF>

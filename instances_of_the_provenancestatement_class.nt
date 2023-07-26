@@ -1,0 +1,5 @@
+<https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/ProvenanceStatement> .
+<https://doi.org/10.6069/uwlswd.2e2b-y833> <http://rdfs.org/ns/void#inDataset> <http://doi.org/10.6069/uwlib.55.a#uwSemWeb> .
+<https://doi.org/10.6069/uwlswd.2e2b-y833#marc00Xvalues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "\n            Original list of values appeared in the MARC 21 standard, section \"00X - Control Fields-General Information\" maintained by the Library of Congress Network Development and MARC Standards Office. The original lists were re-formatted in 2011 as RDF in the Open Metadata Registry by Metadata Management Associates (see http://marc21rdf.info/). The current concept scheme was published at the University of Washington Libraries Cataloging and Metadata Services in 2023 and originally derived from the OMR versions, with revisions to better agree with the MARC standard as it exists in 2023.\n        " .
+<https://doi.org/10.6069/uwlswd.2e2b-y833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+
