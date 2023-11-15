@@ -1,177 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF xmlns:ab="http://learningsparql.com/ns/addressbook#" xmlns:bf1="http://bibframe.org/vocab/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:d="http://learningsparql.com/ns/data#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:dpla="http://dp.la/about/map/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:http="http://www.w3.org/2011/http#" xmlns:j.0="http://purl.org/dc/dcmitype/" xmlns:ldproc="https://doi.org/10.6069/uwlib.55.b.2#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:plat="https://doi.org/10.6069/uwlib.55.d.2#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rel="http://id.loc.gov/vocabulary/relators/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4">
-    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4">
-    <void:inDataset rdf:resource="http://doi.org/10.6069/uwlib.55.a#uwSemWeb"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacficExpositionPhotographCollectionPHColl792">
-    <dct:title xml:lang="en">Alaska Yukon Pacfic Exposition Photograph Collection. PH Coll 792</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacficExpositionPhotographCollectionPHColl792">
-    <dct:title xml:lang="en">Miscellaneous Alaska Yukon Pacfic Exposition Photographs. PH Coll 792</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacficExpositionPhotographCollectionPHColl792">
+<rdf:RDF
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:edm="http://www.europeana.eu/schemas/edm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:schema="https://schema.org/"
+>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#SEMeldrumAYPEPhotographAlbumPHColl61">
+    <dct:title xml:lang="en">S.E. Meldrum AYPE Photograph Album. PH Coll 61</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection">
     <dct:title xml:lang="en">Alaska-Yukon-Pacific Exposition Collection</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection">
     <dct:title xml:lang="en">Alaska-Yukon-Pacific-Exposition Collection</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection">
     <edm:isShownAt rdf:resource="http://content.lib.washington.edu/aypweb/index.html"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionGroundsPreExpositionPhotographCollectionPHColl757">
-    <dct:title xml:lang="en">Alaska-Yukon-Pacific-Exposition Grounds Pre-Exposition Photograph Collection. PH Coll 757</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionGroundsPreExpositionPhotographCollectionPHColl757">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionPostcardCollectionPHColl777">
-    <dct:title xml:lang="en">Alaska Yukon Pacific Exposition Postcard Collection. PH Coll 777</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionPostcardCollectionPHColl777">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAYPEPhotographCollectionPHColl756">
-    <dct:title xml:lang="en">Anonymous AYPE Photograph Collection. PH Coll 756</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAYPEPhotographCollectionPHColl756">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAlaskaYukonPacificExpositionPostcardAlbum1909PHColl433">
-    <dct:title xml:lang="en">Anonymous Alaska Yukon Pacific Exposition Postcard Album 1909. PH Coll 433</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAlaskaYukonPacificExpositionPostcardAlbum1909PHColl433">
-    <dct:title xml:lang="en">Anonymous Alaska Yukon Pacific Exposition Postcard Album. PH Coll 433</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAlaskaYukonPacificExpositionPostcardAlbum1909PHColl433">
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#ArthurChurchillWarnerCollectionPHColl273">
     <dct:title xml:lang="en">Arthur Churchill Warner Collection. PH Coll 273</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#ArthurChurchillWarnerCollectionPHColl273">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#ArthurDeanUniversityofWashingtonphotographalbumPHColl903">
-    <dct:title xml:lang="en">Arthur Dean University of Washington photograph album. PH Coll 903</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#ArthurDeanUniversityofWashingtonphotographalbumPHColl903">
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#DobbsBBBeverlyBennettAYPEPhotographsPHColl755">
     <dct:title xml:lang="en">Dobbs, B.B. (Beverly Bennett) AYPE Photographs. PH Coll 755</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#DobbsBBBeverlyBennettAYPEPhotographsPHColl755">
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#EdwardOLeighphotographalbumPHColl39">
-    <dct:title xml:lang="en">Edward O. Leigh photograph album. PH Coll 39</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#EdwardOLeighphotographalbumPHColl39">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionPostcardCollectionPHColl777">
+    <dct:title xml:lang="en">Alaska Yukon Pacific Exposition Postcard Collection. PH Coll 777</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#EugeneMWeaverPhotographsPHColl772">
-    <dct:title xml:lang="en">Eugene M. Weaver Photographs. PH Coll 772</dct:title>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacficExpositionPhotographCollectionPHColl792">
+    <dct:title xml:lang="en">Alaska Yukon Pacfic Exposition Photograph Collection. PH Coll 792</dct:title>
+    <dct:title xml:lang="en">Miscellaneous Alaska Yukon Pacfic Exposition Photographs. PH Coll 792</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#EugeneMWeaverPhotographsPHColl772">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4">
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dct:title xml:lang="en">Instances of the Collection Class</dct:title>
+    <dct:description xml:lang="en">Instances of the class http://purl.org/dc/dcmitype/Collection represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0</dct:description>
+    <schema:disambiguatingDescription xml:lang="en">Linked Open Cultural Heritage Dataset</schema:disambiguatingDescription>
+    <dct:creator rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:publisher rdf:resource="http://viaf.org/viaf/139541794"/>
+    <dct:language>en</dct:language>
+    <schema:version>1-1-0</schema:version>
+    <dct:issued>2018</dct:issued>
+    <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.ttl"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.nt"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.jsonld"/>
+    <dct:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.html"/>
+    <dct:format rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#RobertandNancyBeckerAYPEpostcardcollectionPHColl78">
+    <dct:title xml:lang="en">Robert and Nancy Becker AYPE Postcard Collection. PH Coll 78</dct:title>
+    <dct:title xml:lang="en">Robert and Nancy Becker AYPE postcard collection. PH Coll 78</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#FrankHNowellAlaskaYukonPacificExpositionPhotographsPHColl727">
     <dct:title xml:lang="en">Frank H. Nowell AYPE Photographs. PH Coll 727</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#FrankHNowellAlaskaYukonPacificExpositionPhotographsPHColl727">
     <dct:title xml:lang="en">Frank H. Nowell Alaska Yukon Pacific Exposition Photographs. PH Coll 727</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#FrankHNowellAlaskaYukonPacificExpositionPhotographsPHColl727">
     <dct:title xml:lang="en">Frank H. Nowell Alaska-Yukon-Pacific Exposition Photographs. PH Coll 727</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#FrankHNowellAlaskaYukonPacificExpositionPhotographsPHColl727">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#GeorgeMoonPhotographsPHColl371">
-    <dct:title xml:lang="en">George Moon Photographs. PH Coll 371</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#GeorgeMoonPhotographsPHColl371">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#JamesPLeeAYPEPhotographsPHColl760">
-    <dct:title xml:lang="en">James P. Lee AYPE Photographs. PH Coll 760</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#JamesPLeeAYPEPhotographsPHColl760">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#LeviBradleyCollectionPHColl359">
-    <dct:title xml:lang="en">Levi Bradley Collection. PH Coll 359</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#LeviBradleyCollectionPHColl359">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#MillerFamilypapersAccessionno3912001Box201">
-    <dct:title xml:lang="en">Miller Family papers. Accession no. 3912-001. Box 20/1</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#MillerFamilypapersAccessionno3912001Box201">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#NelsonTHartsonphotographcollectionPHColl406">
-    <dct:title xml:lang="en">Nelson T. Hartson photograph collection. PH Coll 406</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#NelsonTHartsonphotographcollectionPHColl406">
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#OrvilleJRognonAlaskaYukonPacificExpositionPhotographsPHColl779">
     <dct:title xml:lang="en">Orville J. Rognon Alaska Yukon Pacific Exposition Photographs. PH Coll 779</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#OrvilleJRognonAlaskaYukonPacificExpositionPhotographsPHColl779">
     <dct:title xml:lang="en">Orville J. Rognon Alaska-Yukon-Pacific-Exposition Photographs. PH Coll 779</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#OrvilleJRognonAlaskaYukonPacificExpositionPhotographsPHColl779">
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#PortraitCollection">
-    <dct:title xml:lang="en">Portrait Collection</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#PortraitCollection">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#GeorgeMoonPhotographsPHColl371">
+    <dct:title xml:lang="en">George Moon Photographs. PH Coll 371</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#PostAlaskaYukonPacificExpositionPhotographCollectionPHColl778">
-    <dct:title xml:lang="en">Post Alaska-Yukon-Pacific-Exposition Photograph Collection. PH Coll 778</dct:title>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#ArthurDeanUniversityofWashingtonphotographalbumPHColl903">
+    <dct:title xml:lang="en">Arthur Dean University of Washington photograph album. PH Coll 903</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#PostAlaskaYukonPacificExpositionPhotographCollectionPHColl778">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAlaskaYukonPacificExpositionPostcardAlbum1909PHColl433">
+    <dct:title xml:lang="en">Anonymous Alaska Yukon Pacific Exposition Postcard Album 1909. PH Coll 433</dct:title>
+    <dct:title xml:lang="en">Anonymous Alaska Yukon Pacific Exposition Postcard Album. PH Coll 433</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionGroundsPreExpositionPhotographCollectionPHColl757">
+    <dct:title xml:lang="en">Alaska-Yukon-Pacific-Exposition Grounds Pre-Exposition Photograph Collection. PH Coll 757</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#MillerFamilypapersAccessionno3912001Box201">
+    <dct:title xml:lang="en">Miller Family papers. Accession no. 3912-001. Box 20/1</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#RareMapsG4284S42A42A31909C3">
     <dct:title xml:lang="en">Rare Maps. G4284.S4:2A42 A3 1909.C3</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#RareMapsG4284S42A42A31909C3">
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#RobertandNancyBeckerAYPEpostcardcollectionPHColl78">
-    <dct:title xml:lang="en">Robert and Nancy Becker AYPE Postcard Collection. PH Coll 78</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#RobertandNancyBeckerAYPEpostcardcollectionPHColl78">
-    <dct:title xml:lang="en">Robert and Nancy Becker AYPE postcard collection. PH Coll 78</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#RobertandNancyBeckerAYPEpostcardcollectionPHColl78">
-    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#SEMeldrumAYPEPhotographAlbumPHColl61">
-    <dct:title xml:lang="en">S.E. Meldrum AYPE Photograph Album. PH Coll 61</dct:title>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#SEMeldrumAYPEPhotographAlbumPHColl61">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAYPEPhotographCollectionPHColl756">
+    <dct:title xml:lang="en">Anonymous AYPE Photograph Collection. PH Coll 756</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#VictorGalbraithAYPEPhotographCollectionPHColl369">
     <dct:title xml:lang="en">Victor Galbraith AYPE Photograph Collection. PH Coll 369</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#VictorGalbraithAYPEPhotographCollectionPHColl369">
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#PostAlaskaYukonPacificExpositionPhotographCollectionPHColl778">
+    <dct:title xml:lang="en">Post Alaska-Yukon-Pacific-Exposition Photograph Collection. PH Coll 778</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#EugeneMWeaverPhotographsPHColl772">
+    <dct:title xml:lang="en">Eugene M. Weaver Photographs. PH Coll 772</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#NelsonTHartsonphotographcollectionPHColl406">
+    <dct:title xml:lang="en">Nelson T. Hartson photograph collection. PH Coll 406</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#EdwardOLeighphotographalbumPHColl39">
+    <dct:title xml:lang="en">Edward O. Leigh photograph album. PH Coll 39</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#JamesPLeeAYPEPhotographsPHColl760">
+    <dct:title xml:lang="en">James P. Lee AYPE Photographs. PH Coll 760</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#LeviBradleyCollectionPHColl359">
+    <dct:title xml:lang="en">Levi Bradley Collection. PH Coll 359</dct:title>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.A.3.4#PortraitCollection">
+    <dct:title xml:lang="en">Portrait Collection</dct:title>
     <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
   </rdf:Description>
 </rdf:RDF>

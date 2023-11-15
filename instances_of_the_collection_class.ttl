@@ -1,0 +1,100 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix schema: <https://schema.org/> .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4> a <http://rdfs.org/ns/void#Dataset> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Instances of the class http://purl.org/dc/dcmitype/Collection represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.html>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.rdf> ;
+    dct:issued "2018" ;
+    dct:language "en" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:title "Instances of the Collection Class"@en ;
+    schema:disambiguatingDescription "Linked Open Cultural Heritage Dataset"@en ;
+    schema:version "1-1-0" .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacficExpositionPhotographCollectionPHColl792> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Alaska Yukon Pacfic Exposition Photograph Collection. PH Coll 792"@en,
+        "Miscellaneous Alaska Yukon Pacfic Exposition Photographs. PH Coll 792"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Alaska-Yukon-Pacific Exposition Collection"@en,
+        "Alaska-Yukon-Pacific-Exposition Collection"@en ;
+    edm:isShownAt <http://content.lib.washington.edu/aypweb/index.html> .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionGroundsPreExpositionPhotographCollectionPHColl757> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Alaska-Yukon-Pacific-Exposition Grounds Pre-Exposition Photograph Collection. PH Coll 757"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionPostcardCollectionPHColl777> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Alaska Yukon Pacific Exposition Postcard Collection. PH Coll 777"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAYPEPhotographCollectionPHColl756> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Anonymous AYPE Photograph Collection. PH Coll 756"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAlaskaYukonPacificExpositionPostcardAlbum1909PHColl433> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Anonymous Alaska Yukon Pacific Exposition Postcard Album 1909. PH Coll 433"@en,
+        "Anonymous Alaska Yukon Pacific Exposition Postcard Album. PH Coll 433"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#ArthurChurchillWarnerCollectionPHColl273> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Arthur Churchill Warner Collection. PH Coll 273"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#ArthurDeanUniversityofWashingtonphotographalbumPHColl903> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Arthur Dean University of Washington photograph album. PH Coll 903"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#DobbsBBBeverlyBennettAYPEPhotographsPHColl755> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Dobbs, B.B. (Beverly Bennett) AYPE Photographs. PH Coll 755"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#EdwardOLeighphotographalbumPHColl39> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Edward O. Leigh photograph album. PH Coll 39"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#EugeneMWeaverPhotographsPHColl772> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Eugene M. Weaver Photographs. PH Coll 772"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#FrankHNowellAlaskaYukonPacificExpositionPhotographsPHColl727> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Frank H. Nowell AYPE Photographs. PH Coll 727"@en,
+        "Frank H. Nowell Alaska Yukon Pacific Exposition Photographs. PH Coll 727"@en,
+        "Frank H. Nowell Alaska-Yukon-Pacific Exposition Photographs. PH Coll 727"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#GeorgeMoonPhotographsPHColl371> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "George Moon Photographs. PH Coll 371"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#JamesPLeeAYPEPhotographsPHColl760> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "James P. Lee AYPE Photographs. PH Coll 760"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#LeviBradleyCollectionPHColl359> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Levi Bradley Collection. PH Coll 359"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#MillerFamilypapersAccessionno3912001Box201> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Miller Family papers. Accession no. 3912-001. Box 20/1"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#NelsonTHartsonphotographcollectionPHColl406> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Nelson T. Hartson photograph collection. PH Coll 406"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#OrvilleJRognonAlaskaYukonPacificExpositionPhotographsPHColl779> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Orville J. Rognon Alaska Yukon Pacific Exposition Photographs. PH Coll 779"@en,
+        "Orville J. Rognon Alaska-Yukon-Pacific-Exposition Photographs. PH Coll 779"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#PortraitCollection> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Portrait Collection"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#PostAlaskaYukonPacificExpositionPhotographCollectionPHColl778> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Post Alaska-Yukon-Pacific-Exposition Photograph Collection. PH Coll 778"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#RareMapsG4284S42A42A31909C3> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Rare Maps. G4284.S4:2A42 A3 1909.C3"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#RobertandNancyBeckerAYPEpostcardcollectionPHColl78> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Robert and Nancy Becker AYPE Postcard Collection. PH Coll 78"@en,
+        "Robert and Nancy Becker AYPE postcard collection. PH Coll 78"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#SEMeldrumAYPEPhotographAlbumPHColl61> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "S.E. Meldrum AYPE Photograph Album. PH Coll 61"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.4#VictorGalbraithAYPEPhotographCollectionPHColl369> a <http://purl.org/dc/dcmitype/Collection> ;
+    dct:title "Victor Galbraith AYPE Photograph Collection. PH Coll 369"@en .
+

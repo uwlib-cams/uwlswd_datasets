@@ -1,0 +1,396 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#SEMeldrumAYPEPhotographAlbumPHColl61",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "S.E. Meldrum AYPE Photograph Album. PH Coll 61"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4",
+    "@type": [
+      "http://rdfs.org/ns/void#Dataset"
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://purl.org/dc/dcmitype/Collection represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the Collection Class"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@language": "en",
+        "@value": "Linked Open Cultural Heritage Dataset"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-1-0"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#RobertandNancyBeckerAYPEpostcardcollectionPHColl78",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Robert and Nancy Becker AYPE Postcard Collection. PH Coll 78"
+      },
+      {
+        "@language": "en",
+        "@value": "Robert and Nancy Becker AYPE postcard collection. PH Coll 78"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacficExpositionPhotographCollectionPHColl792",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Alaska Yukon Pacfic Exposition Photograph Collection. PH Coll 792"
+      },
+      {
+        "@language": "en",
+        "@value": "Miscellaneous Alaska Yukon Pacfic Exposition Photographs. PH Coll 792"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#ArthurChurchillWarnerCollectionPHColl273",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Arthur Churchill Warner Collection. PH Coll 273"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#VictorGalbraithAYPEPhotographCollectionPHColl369",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Victor Galbraith AYPE Photograph Collection. PH Coll 369"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#EugeneMWeaverPhotographsPHColl772",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Eugene M. Weaver Photographs. PH Coll 772"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#GeorgeMoonPhotographsPHColl371",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "George Moon Photographs. PH Coll 371"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#MillerFamilypapersAccessionno3912001Box201",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Miller Family papers. Accession no. 3912-001. Box 20/1"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAYPEPhotographCollectionPHColl756",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Anonymous AYPE Photograph Collection. PH Coll 756"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#JamesPLeeAYPEPhotographsPHColl760",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "James P. Lee AYPE Photographs. PH Coll 760"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#ArthurDeanUniversityofWashingtonphotographalbumPHColl903",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Arthur Dean University of Washington photograph album. PH Coll 903"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#NelsonTHartsonphotographcollectionPHColl406",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Nelson T. Hartson photograph collection. PH Coll 406"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#EdwardOLeighphotographalbumPHColl39",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Edward O. Leigh photograph album. PH Coll 39"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#OrvilleJRognonAlaskaYukonPacificExpositionPhotographsPHColl779",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Orville J. Rognon Alaska Yukon Pacific Exposition Photographs. PH Coll 779"
+      },
+      {
+        "@language": "en",
+        "@value": "Orville J. Rognon Alaska-Yukon-Pacific-Exposition Photographs. PH Coll 779"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#DobbsBBBeverlyBennettAYPEPhotographsPHColl755",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Dobbs, B.B. (Beverly Bennett) AYPE Photographs. PH Coll 755"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#LeviBradleyCollectionPHColl359",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Levi Bradley Collection. PH Coll 359"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#PortraitCollection",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Portrait Collection"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionPostcardCollectionPHColl777",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Alaska Yukon Pacific Exposition Postcard Collection. PH Coll 777"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Alaska-Yukon-Pacific Exposition Collection"
+      },
+      {
+        "@language": "en",
+        "@value": "Alaska-Yukon-Pacific-Exposition Collection"
+      }
+    ],
+    "http://www.europeana.eu/schemas/edm/isShownAt": [
+      {
+        "@id": "http://content.lib.washington.edu/aypweb/index.html"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionGroundsPreExpositionPhotographCollectionPHColl757",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Alaska-Yukon-Pacific-Exposition Grounds Pre-Exposition Photograph Collection. PH Coll 757"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#RareMapsG4284S42A42A31909C3",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Rare Maps. G4284.S4:2A42 A3 1909.C3"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#PostAlaskaYukonPacificExpositionPhotographCollectionPHColl778",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Post Alaska-Yukon-Pacific-Exposition Photograph Collection. PH Coll 778"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#FrankHNowellAlaskaYukonPacificExpositionPhotographsPHColl727",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Frank H. Nowell AYPE Photographs. PH Coll 727"
+      },
+      {
+        "@language": "en",
+        "@value": "Frank H. Nowell Alaska Yukon Pacific Exposition Photographs. PH Coll 727"
+      },
+      {
+        "@language": "en",
+        "@value": "Frank H. Nowell Alaska-Yukon-Pacific Exposition Photographs. PH Coll 727"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AnonymousAlaskaYukonPacificExpositionPostcardAlbum1909PHColl433",
+    "@type": [
+      "http://purl.org/dc/dcmitype/Collection"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Anonymous Alaska Yukon Pacific Exposition Postcard Album 1909. PH Coll 433"
+      },
+      {
+        "@language": "en",
+        "@value": "Anonymous Alaska Yukon Pacific Exposition Postcard Album. PH Coll 433"
+      }
+    ]
+  }
+]
