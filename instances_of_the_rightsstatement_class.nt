@@ -1,0 +1,19 @@
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/issued> "2018" .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/zero/1.0> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <https://schema.org/version> "1-1-0" .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.rdf> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.jsonld> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/description> "Instances of the class http://purl.org/dc/terms/RightsStatement represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/format> <http://www.w3.org/ns/formats/N-Triples> .
+<https://doi.org/10.6069/uwlib.55.A.3.5#orderingInformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/RightsStatement> .
+<https://doi.org/10.6069/uwlib.55.A.3.5#orderingInformation> <http://www.w3.org/2004/02/skos/core#note> "To order a reproduction, inquire about permissions, or for information about prices see: <br> http://www.lib.washington.edu/specialcollections/services/reproduction/reproduction <br>Please cite the Order Number"@en .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.html> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/hasFormat> <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.ttl> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/title> "Instances of the RightsStatement Class"@en .
+<https://doi.org/10.6069/uwlib.55.A.3.5#restrictions> <http://www.w3.org/2004/02/skos/core#prefLabel> "For information on permissions for use and reproductions please visit UW Libraries Special Collections Use Permissions page: <br> http://www.lib.washington.edu/specialcollections/services/permission-for-use"@en .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/creator> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlib.55.A.3.5#restrictions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/RightsStatement> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <https://schema.org/disambiguatingDescription> "Linked Open Cultural Heritage Dataset"@en .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/publisher> <http://viaf.org/viaf/139541794> .
+<https://doi.org/10.6069/uwlib.55.A.3.5> <http://purl.org/dc/terms/language> "en" .

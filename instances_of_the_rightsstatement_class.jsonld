@@ -1,0 +1,99 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.5#orderingInformation",
+    "@type": [
+      "http://purl.org/dc/terms/RightsStatement"
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@language": "en",
+        "@value": "To order a reproduction, inquire about permissions, or for information about prices see: <br> http://www.lib.washington.edu/specialcollections/services/reproduction/reproduction <br>Please cite the Order Number"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.5#restrictions",
+    "@type": [
+      "http://purl.org/dc/terms/RightsStatement"
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "For information on permissions for use and reproductions please visit UW Libraries Special Collections Use Permissions page: <br> http://www.lib.washington.edu/specialcollections/services/permission-for-use"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.A.3.5",
+    "@type": [
+      "http://rdfs.org/ns/void#Dataset"
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://purl.org/dc/terms/RightsStatement represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/format": [
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.html"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.ttl"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@value": "en"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "http://viaf.org/viaf/139541794"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the RightsStatement Class"
+      }
+    ],
+    "https://schema.org/disambiguatingDescription": [
+      {
+        "@language": "en",
+        "@value": "Linked Open Cultural Heritage Dataset"
+      }
+    ],
+    "https://schema.org/version": [
+      {
+        "@value": "1-1-0"
+      }
+    ]
+  }
+]

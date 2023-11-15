@@ -1,0 +1,26 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://doi.org/10.6069/uwlib.55.A.3.5> a <http://rdfs.org/ns/void#Dataset> ;
+    dct:creator <http://viaf.org/viaf/139541794> ;
+    dct:description "Instances of the class http://purl.org/dc/terms/RightsStatement represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dct:format <http://www.w3.org/ns/formats/Turtle> ;
+    dct:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.html>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.rdf> ;
+    dct:issued "2018" ;
+    dct:language "en" ;
+    dct:license <http://creativecommons.org/publicdomain/zero/1.0> ;
+    dct:publisher <http://viaf.org/viaf/139541794> ;
+    dct:title "Instances of the RightsStatement Class"@en ;
+    schema:disambiguatingDescription "Linked Open Cultural Heritage Dataset"@en ;
+    schema:version "1-1-0" .
+
+<https://doi.org/10.6069/uwlib.55.A.3.5#orderingInformation> a dct:RightsStatement ;
+    skos:note "To order a reproduction, inquire about permissions, or for information about prices see: <br> http://www.lib.washington.edu/specialcollections/services/reproduction/reproduction <br>Please cite the Order Number"@en .
+
+<https://doi.org/10.6069/uwlib.55.A.3.5#restrictions> a dct:RightsStatement ;
+    skos:prefLabel "For information on permissions for use and reproductions please visit UW Libraries Special Collections Use Permissions page: <br> http://www.lib.washington.edu/specialcollections/services/permission-for-use"@en .
+
