@@ -1,0 +1,513 @@
+[
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a.3.5",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://purl.org/dc/terms/RightsStatement represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the RightsStatement Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#Class": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/RightsStatement"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a#uwSemWeb",
+    "@type": [
+      "http://rdfs.org/ns/void#Dataset"
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"
+      }
+    ],
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Linked data describing resources associated with digital collections and RDF vocabularies hosted at the University of Washington"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "UWLSWD Linked Open Cultural Heritage Datasets"
+      }
+    ],
+    "http://rdfs.org/ns/void#classPartition": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a.3.1"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a.3.2"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a.3.3"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a.3.4"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a.3.5"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a.3.6"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833"
+      }
+    ],
+    "http://rdfs.org/ns/void#feature": [
+      {
+        "@id": "http://www.w3.org/ns/formats/RDFa"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/N-Triples"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/RDF_XML"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/Turtle"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#dataHarvestSource": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.A.3.4#WilliamBrumfieldRussianArchitectureDigitalCollection"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a.3.2",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://www.openarchives.org/ore/terms/Aggregation represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the Aggregation Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#Class": [
+      {
+        "@id": "http://www.openarchives.org/ore/terms/Aggregation"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a.3.3",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://www.europeana.eu/schemas/edm/WebResource represented in the University of Washington digital collections; the class is taken from the Digital Public Library Metadata of America Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the WebResource Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#Class": [
+      {
+        "@id": "http://dp.la/about/map/WebResource"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlswd.2e2b-y833",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://purl.org/dc/terms/ProvenanceStatement referenced in UW Libraries semantic web data."
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2023"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the ProvenanceStatement Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#Class": [
+      {
+        "@id": "http://purl.org/dc/terms/ProvenanceStatement"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a.3.6",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://www.europeana.eu/schemas/edm/Agent represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2019"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the Agent Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#class": [
+      {
+        "@id": "http://www.europeana.eu/schemas/edm/Agent"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#containsEntity": [
+      {
+        "@id": "http://www.europeana.eu/schemas/edm/Agent"
+      },
+      {
+        "@id": "http://purl.org/vra/Agent"
+      },
+      {
+        "@id": "http://purl.org/vra/Organization"
+      },
+      {
+        "@id": "http://purl.org/vra/Person"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#deduped": [
+      {
+        "@value": "1-0-1"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#linkPredicate": [
+      {
+        "@id": "http://www.w3.org/2002/07/owl#sameAs"
+      },
+      {
+        "@id": "http://purl.org/dc/terms/isReferencedBy"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#platform": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.d.2#platform001"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.d.2#platform002"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.d.2#platform003"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.d.2#platform004"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#processingNote": [
+      {
+        "@value": "All entities derived from the collection https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection were searched manually in Wikidata; when appropriate, new Wikidata items were created; when Wikidata entities matching local entities existed, the Wikidata entity data was edited."
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#targetVocabSecondary": [
+      {
+        "@id": "http://www.wikidata.org/"
+      },
+      {
+        "@id": "https://ru.wikipedia.org/wiki/"
+      },
+      {
+        "@id": "http://vocab.getty.edu/ulan/"
+      },
+      {
+        "@id": "http://dbpedia.org/resource/"
+      },
+      {
+        "@id": "http://viaf.org/viaf/"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a.3.1",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://dp.la/about/map/SourceResource represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the SourceResource Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#Class": [
+      {
+        "@id": "http://dp.la/about/map/SourceResource"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a",
+    "@type": [
+      "http://rdfs.org/ns/void#DatasetDescription"
+    ],
+    "http://purl.org/dc/terms/creator": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/languages/eng"
+      }
+    ],
+    "http://purl.org/dc/terms/license": [
+      {
+        "@id": "http://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "VoID Description of UWLSWD Linked Open Cultural Heritage Datasets"
+      }
+    ],
+    "http://rdfs.org/ns/void#feature": [
+      {
+        "@id": "http://www.w3.org/ns/formats/RDFa"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/N-Triples"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/RDF_XML"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/Turtle"
+      },
+      {
+        "@id": "http://www.w3.org/ns/formats/JSON-LD"
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/primaryTopic": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.a#uwSemWeb"
+      }
+    ]
+  },
+  {
+    "@id": "https://doi.org/10.6069/uwlib.55.a.3.4",
+    "http://purl.org/dc/terms/description": [
+      {
+        "@language": "en",
+        "@value": "Instances of the class http://purl.org/dc/dcmitype/Collection represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"
+      }
+    ],
+    "http://purl.org/dc/terms/hasFormat": [
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.nt"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.rdf"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.ttl"
+      },
+      {
+        "@id": "https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.jsonld"
+      }
+    ],
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2018"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@language": "en",
+        "@value": "Instances of the Collection Class"
+      }
+    ],
+    "http://rdfs.org/ns/void#Class": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Collection"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#deduped": [
+      {
+        "@value": "1-0-0"
+      }
+    ],
+    "https://doi.org/10.6069/uwlib.55.b.2#platform": [
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.d.2#platform001"
+      },
+      {
+        "@id": "https://doi.org/10.6069/uwlib.55.d.2#platform002"
+      }
+    ]
+  }
+]
