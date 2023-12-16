@@ -1,0 +1,131 @@
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ldproc: <https://doi.org/10.6069/uwlib.55.b.2#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<https://doi.org/10.6069/uwlib.55.a> a void:DatasetDescription ;
+    dcterms:creator <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> ;
+    dcterms:issued "2018" ;
+    dcterms:language <http://id.loc.gov/vocabulary/languages/eng> ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:publisher <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> ;
+    dcterms:title "VoID Description of UWLSWD Linked Open Cultural Heritage Datasets"@en ;
+    void:feature <http://www.w3.org/ns/formats/JSON-LD>,
+        <http://www.w3.org/ns/formats/N-Triples>,
+        <http://www.w3.org/ns/formats/RDF_XML>,
+        <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    foaf:primaryTopic <https://doi.org/10.6069/uwlib.55.a#uwSemWeb> .
+
+<https://doi.org/10.6069/uwlib.55.a#uwSemWeb> a void:Dataset ;
+    dcterms:creator <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> ;
+    dcterms:description "Linked data describing resources associated with digital collections and RDF vocabularies hosted at the University of Washington"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.ttl> ;
+    dcterms:issued "2018" ;
+    dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:publisher <https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries> ;
+    dcterms:title "UWLSWD Linked Open Cultural Heritage Datasets"@en ;
+    void:classPartition <https://doi.org/10.6069/uwlib.55.a.3.1>,
+        <https://doi.org/10.6069/uwlib.55.a.3.2>,
+        <https://doi.org/10.6069/uwlib.55.a.3.3>,
+        <https://doi.org/10.6069/uwlib.55.a.3.4>,
+        <https://doi.org/10.6069/uwlib.55.a.3.5>,
+        <https://doi.org/10.6069/uwlib.55.a.3.6>,
+        <https://doi.org/10.6069/uwlswd.2e2b-y833> ;
+    void:feature <http://www.w3.org/ns/formats/JSON-LD>,
+        <http://www.w3.org/ns/formats/N-Triples>,
+        <http://www.w3.org/ns/formats/RDF_XML>,
+        <http://www.w3.org/ns/formats/RDFa>,
+        <http://www.w3.org/ns/formats/Turtle> ;
+    ldproc:dataHarvestSource <https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection>,
+        <https://doi.org/10.6069/uwlib.55.A.3.4#WilliamBrumfieldRussianArchitectureDigitalCollection> .
+
+<https://doi.org/10.6069/uwlib.55.a.3.1> dcterms:description "Instances of the class http://dp.la/about/map/SourceResource represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.ttl> ;
+    dcterms:issued "2018" ;
+    dcterms:title "Instances of the SourceResource Class"@en ;
+    void:Class <http://dp.la/about/map/SourceResource> .
+
+<https://doi.org/10.6069/uwlib.55.a.3.2> dcterms:description "Instances of the class http://www.openarchives.org/ore/terms/Aggregation represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.ttl> ;
+    dcterms:issued "2018" ;
+    dcterms:title "Instances of the Aggregation Class"@en ;
+    void:Class <http://www.openarchives.org/ore/terms/Aggregation> .
+
+<https://doi.org/10.6069/uwlib.55.a.3.3> dcterms:description "Instances of the class http://www.europeana.eu/schemas/edm/WebResource represented in the University of Washington digital collections; the class is taken from the Digital Public Library Metadata of America Application Profile 5.0"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.ttl> ;
+    dcterms:issued "2018" ;
+    dcterms:title "Instances of the WebResource Class"@en ;
+    void:Class <http://dp.la/about/map/WebResource> .
+
+<https://doi.org/10.6069/uwlib.55.a.3.4> dcterms:description "Instances of the class http://purl.org/dc/dcmitype/Collection represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.ttl> ;
+    dcterms:issued "2018" ;
+    dcterms:title "Instances of the Collection Class"@en ;
+    void:Class dcmitype:Collection ;
+    ldproc:deduped "1-0-0" ;
+    ldproc:platform <https://doi.org/10.6069/uwlib.55.d.2#platform001>,
+        <https://doi.org/10.6069/uwlib.55.d.2#platform002> .
+
+<https://doi.org/10.6069/uwlib.55.a.3.5> dcterms:description "Instances of the class http://purl.org/dc/terms/RightsStatement represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.ttl> ;
+    dcterms:issued "2018" ;
+    dcterms:title "Instances of the RightsStatement Class"@en ;
+    void:Class dcmitype:RightsStatement .
+
+<https://doi.org/10.6069/uwlib.55.a.3.6> dcterms:description "Instances of the class http://www.europeana.eu/schemas/edm/Agent represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0"@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.ttl> ;
+    dcterms:issued "2019" ;
+    dcterms:title "Instances of the Agent Class"@en ;
+    void:class <http://www.europeana.eu/schemas/edm/Agent> ;
+    ldproc:containsEntity <http://purl.org/vra/Agent>,
+        <http://purl.org/vra/Organization>,
+        <http://purl.org/vra/Person>,
+        <http://www.europeana.eu/schemas/edm/Agent> ;
+    ldproc:deduped "1-0-1" ;
+    ldproc:linkPredicate dcterms:isReferencedBy,
+        owl:sameAs ;
+    ldproc:platform <https://doi.org/10.6069/uwlib.55.d.2#platform001>,
+        <https://doi.org/10.6069/uwlib.55.d.2#platform002>,
+        <https://doi.org/10.6069/uwlib.55.d.2#platform003>,
+        <https://doi.org/10.6069/uwlib.55.d.2#platform004> ;
+    ldproc:processingNote "All entities derived from the collection https://doi.org/10.6069/uwlib.55.A.3.4#AlaskaYukonPacificExpositionCollection were searched manually in Wikidata; when appropriate, new Wikidata items were created; when Wikidata entities matching local entities existed, the Wikidata entity data was edited." ;
+    ldproc:targetVocabSecondary <http://dbpedia.org/resource/>,
+        <http://viaf.org/viaf/>,
+        <http://vocab.getty.edu/ulan/>,
+        <http://www.wikidata.org/>,
+        <https://ru.wikipedia.org/wiki/>,
+        <https://www.wikidata.org/wiki/> .
+
+<https://doi.org/10.6069/uwlswd.2e2b-y833> dcterms:description "Instances of the class http://purl.org/dc/terms/ProvenanceStatement referenced in UW Libraries semantic web data."@en ;
+    dcterms:hasFormat <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.jsonld>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.nt>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.rdf>,
+        <https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.ttl> ;
+    dcterms:issued "2023" ;
+    dcterms:title "Instances of the ProvenanceStatement Class"@en ;
+    void:Class dcterms:ProvenanceStatement .
+
