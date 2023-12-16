@@ -11,11 +11,11 @@
     <void:class rdf:resource="http://www.europeana.eu/schemas/edm/Agent"/>
     <dcterms:title xml:lang="en">Instances of the Agent Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://www.europeana.eu/schemas/edm/Agent represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0</dcterms:description>
-    <owl:version>1-0-2</owl:version>
     <dcterms:issued>2019</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/agent-1-0-2.nt"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/agent-1-0-2.rdf"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/agent-1-0-2.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_agent_class.jsonld"/>
     <ldproc:deduped>1-0-1</ldproc:deduped>
     <ldproc:targetVocabSecondary rdf:resource="http://www.wikidata.org/"/>
     <ldproc:targetVocabSecondary rdf:resource="https://ru.wikipedia.org/wiki/"/>
@@ -39,15 +39,15 @@
     <void:Class rdf:resource="http://dp.la/about/map/SourceResource"/>
     <dcterms:title xml:lang="en">Instances of the SourceResource Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://dp.la/about/map/SourceResource represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0</dcterms:description>
-    <owl:version>1-0-0</owl:version>
     <dcterms:issued>2018</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/sourceResource-1-0-0.nt"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/sourceResource-1-0-0.rdf"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/sourceResource-1-0-0.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_source_resource_class.jsonld"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a">
     <rdf:type rdf:resource="http://rdfs.org/ns/void#DatasetDescription"/>
-    <dcterms:title xml:lang="en">VoID Description of the dataset 'University of Washington Libraries' Semantic Web Data'</dcterms:title>
+    <dcterms:title xml:lang="en">VoID Description of UWLSWD Linked Open Cultural Heritage Datasets</dcterms:title>
     <dcterms:creator rdf:resource="https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"/>
     <dcterms:publisher rdf:resource="https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"/>
     <dcterms:issued>2018</dcterms:issued>
@@ -62,16 +62,16 @@
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a#uwSemWeb">
     <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
-    <dcterms:title xml:lang="en">University of Washington Libraries' Semantic Web Data</dcterms:title>
+    <dcterms:title xml:lang="en">UWLSWD Linked Open Cultural Heritage Datasets</dcterms:title>
     <dcterms:description xml:lang="en">Linked data describing resources associated with digital collections and RDF vocabularies hosted at the University of Washington</dcterms:description>
     <dcterms:creator rdf:resource="https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"/>
     <dcterms:publisher rdf:resource="https://doi.org/10.6069/uwlib.55.A.3.6#UniversityofWashingtonLibraries"/>
     <dcterms:issued>2018</dcterms:issued>
     <dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.nt"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.html"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.ttl"/>
-    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets_dpla/void_description_of_the_dataset_university_of_washington_libraries_semantic_web_data.jsonld"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/void/void_description_of_uwlswd_linked_open_cultural_heritage_datasets.jsonld"/>
     <void:feature rdf:resource="http://www.w3.org/ns/formats/RDFa"/>
     <void:feature rdf:resource="http://www.w3.org/ns/formats/N-Triples"/>
     <void:feature rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
@@ -91,32 +91,31 @@
     <void:Class rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
     <dcterms:title xml:lang="en">Instances of the Aggregation Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://www.openarchives.org/ore/terms/Aggregation represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0</dcterms:description>
-    <owl:version>1-0-0</owl:version>
     <dcterms:issued>2018</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/aggregation-1-0-0.nt"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/aggregation-1-0-0.rdf"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/aggregation-1-0-0.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_aggregation_class.jsonld"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlswd.2e2b-y833">
     <void:Class rdf:resource="http://purl.org/dc/terms/ProvenanceStatement"/>
     <dcterms:title xml:lang="en">Instances of the ProvenanceStatement Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://purl.org/dc/terms/ProvenanceStatement referenced in UW Libraries semantic web data.</dcterms:description>
-    <owl:version>1-0-0</owl:version>
     <dcterms:issued>2023</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.ttl"/>
-    <dcterms:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.nt"/>
-    <dcterms:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.jsonld"/>
-    <dcterms:hasFormat rdf:resource="https://raw.githubusercontent.com/uwlib-cams/uwlswd_datasets/main/instances_of_the_provenancestatement_class.html"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_provenancestatement_class.jsonld"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a.3.4">
     <void:Class rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
     <dcterms:title xml:lang="en">Instances of the Collection Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://purl.org/dc/dcmitype/Collection represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0</dcterms:description>
-    <owl:version>1-0-0</owl:version>
     <dcterms:issued>2018</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/collection-1-0-0.nt"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/collection-1-0-0.rdf"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/collection-1-0-0.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_collection_class.jsonld"/>
     <ldproc:deduped>1-0-0</ldproc:deduped>
     <ldproc:platform rdf:resource="https://doi.org/10.6069/uwlib.55.d.2#platform001"/>
     <ldproc:platform rdf:resource="https://doi.org/10.6069/uwlib.55.d.2#platform002"/>
@@ -125,20 +124,20 @@
     <void:Class rdf:resource="http://dp.la/about/map/WebResource"/>
     <dcterms:title xml:lang="en">Instances of the WebResource Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://www.europeana.eu/schemas/edm/WebResource represented in the University of Washington digital collections; the class is taken from the Digital Public Library Metadata of America Application Profile 5.0</dcterms:description>
-    <owl:version>1-0-0</owl:version>
     <dcterms:issued>2018</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/webResource-1-0-0.nt"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/webResource-1-0-0.rdf"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/webResource-1-0-0.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_webresource_class.jsonld"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://doi.org/10.6069/uwlib.55.a.3.5">
     <void:Class rdf:resource="http://purl.org/dc/dcmitype/RightsStatement"/>
     <dcterms:title xml:lang="en">Instances of the RightsStatement Class</dcterms:title>
     <dcterms:description xml:lang="en">Instances of the class http://purl.org/dc/terms/RightsStatement represented in the University of Washington digital collections; the class is taken from the Digital Public Library of America Metadata Application Profile 5.0</dcterms:description>
-    <owl:version>1-0-0</owl:version>
     <dcterms:issued>2018</dcterms:issued>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/rightsStatement-1-0-0.nt"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/rightsStatement-1-0-0.rdf"/>
-    <dcterms:hasFormat rdf:resource="https://www.lib.washington.edu/static/public/cams/data/datasets/uwSemWebParts/rightsStatement-1-0-0.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.nt"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.rdf"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.ttl"/>
+    <dcterms:hasFormat rdf:resource="https://uwlib-cams.github.io/uwlswd_datasets/instances_of_the_rightsstatement_class.jsonld"/>
   </rdf:Description>
 </rdf:RDF>
